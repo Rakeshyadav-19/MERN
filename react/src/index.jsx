@@ -1,9 +1,9 @@
 const App = () => {
-    return ( 
+    return (
         <div>
             HELL
         </div>
-     );
+    );
 }
- 
+
 export default App;
